@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\controllers",
+    "\\src\\app\\middlewares",
+    "\\src\\app\\models",
+    "\\src\\config",
+    "\\src\\database",
+    "\\src\\resources\\mail"
+  ],
+  "SelectedNode": "\\src\\app\\controllers\\authController.js",
+  "PreviewInSolutionExplorer": true
+}
